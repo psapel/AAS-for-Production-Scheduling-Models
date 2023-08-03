@@ -1,0 +1,22 @@
+{
+    "code": "https://www.iop.rwth-aachen.de/PPC/1/1/weightedSumLateness",
+    "enumeration_code": "https://www.iop.rwth-aachen.de/PPC/1/1/EnumSchedulingObjectiveFunction",
+    "preferred_name": "weighted sum of lateness",
+    "synonymous_name": null,
+    "short_name": "wSumLateness",
+    "version_number": 1,
+    "revision_number": 1,
+    "symbol": "WLTE",
+    "preferred_letter_symbol": "\u03a3w\\_j\\}L\\_j\\}",
+    "synonymous_letter_symbol": null,
+    "definition": "Weighted total lateness of jobs. Considers all derivation of the due date: w(Cj-dj)",
+    "source_document_of_definition": "<own definition>",
+    "note": null,
+    "remark": null,
+    "definition_class": null,
+    "status_level": "Proposal",
+    "version_released_on": null,
+    "revision_released_on": null,
+    "obsolete_date": null,
+    "version_initiated_on": null
+}

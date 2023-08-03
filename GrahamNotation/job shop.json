@@ -1,0 +1,22 @@
+{
+    "code": "https://www.iop.rwth-aachen.de/PPC/1/1/jobShop",
+    "enumeration_code": "https://www.iop.rwth-aachen.de/PPC/1/1/EnumMachineEnvironment",
+    "preferred_name": "job shop",
+    "synonymous_name": null,
+    "short_name": "jobShop",
+    "version_number": 1,
+    "revision_number": 1,
+    "symbol": "JOBS",
+    "preferred_letter_symbol": "J\\_m\\}",
+    "synonymous_letter_symbol": null,
+    "definition": "In a job shop with m machines each job has its own predetermined route to follow.",
+    "source_document_of_definition": "Scheduling -  Theory, Algorithms, and Systems, 2016, ISBN: 978-3-319-26578-0",
+    "note": null,
+    "remark": null,
+    "definition_class": null,
+    "status_level": "Proposal",
+    "version_released_on": null,
+    "revision_released_on": null,
+    "obsolete_date": null,
+    "version_initiated_on": null
+}

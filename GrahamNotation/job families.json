@@ -1,0 +1,22 @@
+{
+    "code": "https://www.iop.rwth-aachen.de/PPC/1/1/jobFamilies",
+    "enumeration_code": "https://www.iop.rwth-aachen.de/PPC/1/1/EnumSchedulingConstraints",
+    "preferred_name": "job families",
+    "synonymous_name": null,
+    "short_name": "jobFamilies",
+    "version_number": 1,
+    "revision_number": 1,
+    "symbol": "FMLS",
+    "preferred_letter_symbol": "fmls",
+    "synonymous_letter_symbol": null,
+    "definition": "The n jobs belong in this case to F different job families. Jobs from the same family may have different processing times, but they can be processed on a machine one after another without requiring any setup in between.",
+    "source_document_of_definition": "Scheduling -  Theory, Algorithms, and Systems, 2016, ISBN: 978-3-319-26578-0",
+    "note": null,
+    "remark": null,
+    "definition_class": null,
+    "status_level": "Proposal",
+    "version_released_on": null,
+    "revision_released_on": null,
+    "obsolete_date": null,
+    "version_initiated_on": null
+}

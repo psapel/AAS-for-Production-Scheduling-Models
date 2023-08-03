@@ -1,0 +1,22 @@
+{
+    "code": "https://www.iop.rwth-aachen.de/PPC/1/1/precedence",
+    "enumeration_code": "https://www.iop.rwth-aachen.de/PPC/1/1/EnumSchedulingConstraints",
+    "preferred_name": "precedence",
+    "synonymous_name": null,
+    "short_name": "precedence",
+    "version_number": 1,
+    "revision_number": 1,
+    "symbol": "PREC",
+    "preferred_letter_symbol": "prec",
+    "synonymous_letter_symbol": null,
+    "definition": "Precedence constraints may appear in a single machine or in a parallel machine environment, requiring that one or more jobs may have to be completed before another job is allowed to start ist processing.",
+    "source_document_of_definition": "Scheduling -  Theory, Algorithms, and Systems, 2016, ISBN: 978-3-319-26578-0",
+    "note": null,
+    "remark": null,
+    "definition_class": null,
+    "status_level": "Proposal",
+    "version_released_on": null,
+    "revision_released_on": null,
+    "obsolete_date": null,
+    "version_initiated_on": null
+}

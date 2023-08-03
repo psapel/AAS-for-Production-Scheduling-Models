@@ -1,0 +1,22 @@
+{
+    "code": "https://www.iop.rwth-aachen.de/PPC/1/1/maxEarliness",
+    "enumeration_code": "https://www.iop.rwth-aachen.de/PPC/1/1/EnumSchedulingObjectiveFunction",
+    "preferred_name": "maximal earliness",
+    "synonymous_name": null,
+    "short_name": "maxEarliness",
+    "version_number": 1,
+    "revision_number": 1,
+    "symbol": "EMAX",
+    "preferred_letter_symbol": "E\\_max\\}",
+    "synonymous_letter_symbol": null,
+    "definition": "Maximal earliness of jobs. Considers only derivations from the due date that are too early: max(0;(dj-Cj)",
+    "source_document_of_definition": "<own definition>",
+    "note": null,
+    "remark": null,
+    "definition_class": null,
+    "status_level": "Proposal",
+    "version_released_on": null,
+    "revision_released_on": null,
+    "obsolete_date": null,
+    "version_initiated_on": null
+}

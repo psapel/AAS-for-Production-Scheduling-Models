@@ -1,0 +1,22 @@
+{
+    "code": "https://www.iop.rwth-aachen.de/PPC/1/1/maxCompletionTime",
+    "enumeration_code": "https://www.iop.rwth-aachen.de/PPC/1/1/EnumSchedulingObjectiveFunction",
+    "preferred_name": "maximal completion time",
+    "synonymous_name": "makespan",
+    "short_name": "maxCmplTime",
+    "version_number": 1,
+    "revision_number": 1,
+    "symbol": "CMAX",
+    "preferred_letter_symbol": "C\\_max\\}",
+    "synonymous_letter_symbol": null,
+    "definition": "The makespan, defined as max(C1, . . . , Cn), is equivalent to the completion time of the last job to leave the system. A minimum makespan usually implies a good utilization of the machine(s).",
+    "source_document_of_definition": "Scheduling -  Theory, Algorithms, and Systems, 2016, ISBN: 978-3-319-26578-0",
+    "note": null,
+    "remark": null,
+    "definition_class": null,
+    "status_level": "Proposal",
+    "version_released_on": null,
+    "revision_released_on": null,
+    "obsolete_date": null,
+    "version_initiated_on": null
+}
