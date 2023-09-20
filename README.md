@@ -4,10 +4,10 @@ We provide a standardized description of production scheduling models according 
 
 The standardized description of production scheduling models we built applies to every manufacturing domain. However, we focus on production scheduling models, especially from the injection molding domain, by performing literature research. 
 
-In this repository, we provide:
-a) The original manuscript,
-b) The dictionary in the form of a PDF file that contains the standardized description of production scheduling models,
-c) The dictionary in the form of an Excel file for a compact overview,
+In this repository, we provide:<br>
+a) The original manuscript,<br>
+b) The dictionary in the form of a PDF file that contains the standardized description of production scheduling models,<br>
+c) The dictionary in the form of an Excel file for a compact overview,<br>
 d) Single JSON files for each term that computers can use  
 
 Created by: 
