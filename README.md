@@ -19,7 +19,7 @@ Created by:
 
 Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany's Excellence Strategy – EXC-2023 Internet of Production – 390621612.
 
-[1] Graham RL, Lawler EL, Lenstra JK, Kan AHGR. Optimization and Approximation in Deterministic Sequencing and Scheduling: a Survey. In: Discrete Optimization II, Proceedings of the Advanced Research Institute on Discrete Optimization and Systems Applications of the Systems Science Panel of NATO and of the Discrete Optimization Symposium co-sponsored by IBM Canada and SIAM Banff, Aha. and Vancouver, vol. 5 of Annals of Discrete Mathematics Elsevier; 1979.p. 287–326.
+[1] Graham RL, Lawler EL, Lenstra JK, Kan AHGR. Optimization and Approximation in Deterministic Sequencing and Scheduling: a Survey. In: Discrete Optimization II, Proceedings of the Advanced Research Institute on Discrete Optimization and Systems Applications of the Systems Science Panel of NATO and of the Discrete Optimization Symposium co-sponsored by IBM Canada and SIAM Banff, Aha. and Vancouver, vol. 5 of Annals of Discrete Mathematics Elsevier; 1979.p. 287–326.<br>
 [2] DIN EN 61360-1:2018-07: Standard data element types with associated classification scheme - Part 1: Definitions - Principles and methods. Berlin: Beuth Verlag GmbH; 2018.
 
 20.09.2023
